@@ -6,8 +6,8 @@ import json
 import io
 
 # Supabase Configuration
-SUPABASE_URL = "https://rclmtlicustpbtjxugyo.supabase.co"
-SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJjbG10bGljdXN0cGJ0anh1Z3lvIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc0MTE4ODYwNSwiZXhwIjoyMDU2NzY0NjA1fQ.8IW1ZbMu5rZfjWH42zbKeSzBkEUG1208ct76Eg6vCAg"  # Service role key
+#supabase url
+#service role key supabase
 SUPABASE_BUCKET = "prakriti_images"  # New bucket name
 
 @st.cache_resource
