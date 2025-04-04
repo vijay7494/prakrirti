@@ -1,0 +1,19 @@
+prakriti_identification/
+│── app.py  # Main Streamlit app
+│── pages/
+│   ├── home.py
+│   ├── assessment.py
+│   ├── history.py
+│   ├── profile.py
+│   ├── settings.py
+│── auth/
+│   ├── login.py
+│   ├── signup.py
+│── model/
+│   ├── resnet50_prakriti.pth
+│   ├── class_indices.json
+│   ├── inference.py
+│── static/  # For storing images, logos, etc.
+│── utils.py  # Helper functions
+│── requirements.txt
+│── README.md
